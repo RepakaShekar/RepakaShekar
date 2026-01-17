@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi, I’m Shekar Repaka— a Python backend developer focused on building reliable APIs, automation workflows, and data-driven systems. I care more about correctness, scalability, and maintainability than flashy demos.<br>I’m actively building backend projects using Python, Django/FastAPI, and automation tools, while applying for entry-level backend roles and improving system design fundamentals.<br>I’m improving my understanding of backend system design, database optimization, and scalable API patterns using Python.<br>Languages: Python<br>Backend: Django, FastAPI<br>Databases: MySQL<br>Tools: Git, Docker, REST APIs, VSCode<br>Other: Basic JavaScript, HTML, CSS<br>I work on backend-heavy projects such as REST APIs, automation scripts, and data-driven applications that solve specific, real problems.<br>I’m looking for an entry-level Python backend role where I can work on production systems and grow under strong engineering practices.
+ I’m Shekar Repaka
 
 
 ## 🌐 Socials:
