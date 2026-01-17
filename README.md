@@ -1,7 +1,22 @@
- I’m Shekar Repaka
+##                                                                       I'm Shekar Repaka
+
+  Python Backend Developer | APIs • Automation • FastAPI • PostgreSQL
+-----
+Currently working on: Python backend projects focused on REST APIs, automation workflows, and database-driven applications
+
+Looking to collaborate on: Backend-heavy Python projects such as API development, automation systems, or practical open-source tools
+
+Looking for help with: Backend system design, production-grade API development, and database performance optimization
+
+Currently learning: FastAPI, async programming in Python, PostgreSQL optimization, and backend architecture fundamentals
+
+Ask me about: Python backend development, REST APIs, automation with Python, and Git/GitHub workflows
+
+Fun fact: I value clean, reliable backend logic over UI polish and genuinely enjoy debugging complex backend issues
 
 
-## 🌐 Socials:
+
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shekar Repaka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shekar_R3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@LoopVerseDev) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Repaka Shekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:repakashekar3@gmail.com) 
 
 # 💻 Tech Stack:
